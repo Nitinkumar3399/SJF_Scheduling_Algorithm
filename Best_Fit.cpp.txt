@@ -79,7 +79,6 @@ int main()
     }
 	
 	bestFit(blockSize, b, processSize, p);
-	cout<<endl<<endl;
 
 	return 0 ;
 }
