@@ -1,2 +1,2 @@
-# SJF_Scheduling_Algorithm
+### SJF_Scheduling_Algorithm
 Operating system algorithms c++ codes
