@@ -163,7 +163,6 @@ int main()
 
 	// Check system is in safe state or not
 	isSafe(avail, maxm, allot);
-	cout<<endl<<endl;
 
 	return 0;
 }
