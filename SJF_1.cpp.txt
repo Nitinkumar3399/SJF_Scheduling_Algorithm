@@ -136,7 +136,7 @@ int main()
 
     cout<<"\n";
     int k , j;
-    for ( k = 1; k < Order_Of_Execution.size(); k++)
+    for ( k = 0; k < Order_Of_Execution.size(); k++)
     {
         // start time according to order of execution.
         for (int j = 0; j < Order_Of_Execution.size() ; j++)
